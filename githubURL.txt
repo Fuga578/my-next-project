@@ -1,0 +1,1 @@
+https://github.com/nextjs-microcms-book/nextjs-website-sample/blob/main/app/globals.css
